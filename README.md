@@ -1,7 +1,7 @@
 # Nodejs-istant-messaging
 Instant messaging server realized with nodejs. (University project)
 
-This is the project of a node.js server useful to implement an instant messaging web chat. You can use it for all common task of a chat, like send message, view online users, send when other users are writing to you and so on... 
+This is the project of a node.js server useful to implement an instant messaging web chat. You can use it for all common tasks of a chat, like send messages, view online users, send when other users are writing to you and so on... 
 
 Feel free to use it in your projects. But please notice and refer me at the mail in my github profile. 
 
