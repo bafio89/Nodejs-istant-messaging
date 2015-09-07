@@ -3,7 +3,7 @@ Documentation to use this node.js server for create an istant messaging chat ser
 
 To use this plug in you have to know websocket API. 
 First of all download server.js file and run it on a node js server (I tried it on nodejitsu.com, for example). 
-After the server has been lanched start to interact with it, on the client side.
+After the server has been launched start to interact with it, on the client side.
 
 The first method of this plug-in that you will need to use is jQuery.connect = function(address){.. }
 
