@@ -172,7 +172,7 @@ wsServer.on('request', function(request) {
 
                                               utenti[i].update_page = 1;
 
-                                              console.log("BANANE "+ utenti[i].new_scheda[0].utente);
+                                              console.log(utenti[i].new_scheda[0].utente);
                                               utente =  utenti[i].new_scheda[0].utente;
 
                                                var new_name= {
